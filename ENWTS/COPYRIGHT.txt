@@ -1,0 +1,5 @@
+ENWTS (Ethical Networking Tools)
+
+Copyright (c) 2026 Christian Huttunen
+
+All rights reserved.
