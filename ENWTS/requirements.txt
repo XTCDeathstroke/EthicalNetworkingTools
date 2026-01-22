@@ -1,2 +1,0 @@
-# ENWTS has no third-party runtime requirements.
-# Tkinter is part of the standard library but must be available in your Python installation.
